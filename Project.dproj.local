@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/08 14:03:27.000.795,=C:\Users\Diana\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/09/08 14:17:04.000.111,C:\Users\Diana\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\Diana\Desktop\Projetos Delphi\Front End trabalho poo\uFrmCadastro.dfm</Transaction>
+    <Transaction>2020/09/08 14:17:04.000.111,C:\Users\Diana\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\Diana\Desktop\Projetos Delphi\Front End trabalho poo\uFrmCadastro.pas</Transaction>
+    <Transaction>2020/09/08 14:17:42.000.052,C:\Users\Diana\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Diana\Desktop\Projetos Delphi\Front End trabalho poo\Project.dproj</Transaction>
+    <Transaction>2020/09/08 15:47:34.000.761,=C:\Users\vinic\Downloads\Front End trabalho poo\Front End trabalho poo\Unit1.pas</Transaction>
+    <Transaction>2020/09/08 15:50:04.000.943,C:\Users\vinic\Downloads\Front End trabalho poo\Front End trabalho poo\uFuncionario.pas=C:\Users\vinic\Downloads\Front End trabalho poo\Front End trabalho poo\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 15:49:34.000.744,=C:\Users\vinic\Desktop\Trabalho_Cadastro\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 15:49:37.000.098,=C:\Users\vinic\Desktop\Trabalho_Cadastro\Unit2.pas</Transaction>
+    <Transaction>2020/09/09 15:53:40.000.930,C:\Users\vinic\Desktop\Trabalho_Cadastro\Unit2.pas=C:\Users\vinic\Desktop\Trabalho_Cadastro\uGestor.pas</Transaction>
+    <Transaction>2020/09/09 15:53:47.000.651,C:\Users\vinic\Desktop\Trabalho_Cadastro\Unit1.pas=C:\Users\vinic\Desktop\Trabalho_Cadastro\uVendedor.pas</Transaction>
+  </Transactions>
+</BorlandProject>
